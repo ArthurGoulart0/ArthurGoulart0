@@ -2,7 +2,7 @@
 
 Estudante de Tecnologia da Informação, com conhecimentos em Hardware, Redes de Computadores e Python. Atualmente, estou aprofundando meus estudos em programação e desenvolvimento de software.
 
-Tenho interesse em desenvolver projetos, criar sites e landing pages para pequenas empresas e grandes , buscando transformar ideias em soluções digitais funcionais e profissionais.
+Tenho interesse em desenvolver projetos, criar sites e landing pages para pequenas empresas e grandes, buscando transformar ideias em soluções digitais funcionais e profissionais.
 
 🔹 Hardware & Redes
 🔹 Python
