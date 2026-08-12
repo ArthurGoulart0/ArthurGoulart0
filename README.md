@@ -1,16 +1,15 @@
-## Hi there 👋
+🎓 Estudante do 3º ano do Ensino Médio | 💻 Cursando Técnico em Tecnologia da Informação no Senac
 
-<!--
-**ArthurGoulart0/ArthurGoulart0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Tecnologia da Informação, com conhecimentos em Hardware, Redes de Computadores e Python. Atualmente, estou aprofundando meus estudos em programação e desenvolvimento de software.
 
-Here are some ideas to get you started:
+Tenho interesse em desenvolver projetos, criar sites e landing pages para pequenas empresas e grandes , buscando transformar ideias em soluções digitais funcionais e profissionais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Hardware & Redes
+🔹 Python
+🔹 Desenvolvimento Web
+🔹 Sites & Landing Pages
+🔹 Projetos de Software
+🔹 Aprendizado contínuo
+
+Arthurcaminero@gmail.com
++(55) 51994651952
